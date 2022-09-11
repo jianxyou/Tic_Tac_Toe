@@ -1,3 +1,4 @@
 # Tic_Tac_Toe
 
-This is a informatique science work for the 
+
+A tic_tac_toe game made by ptyhon
